@@ -1,4 +1,4 @@
 # Youtube-Converter bash script
-Install package youtube-dl, yt-dlp, ffmpeg
-apt install youtube-dl yt-dlp ffmpeg
+<p>Install package youtube-dl, yt-dlp & ffmpeg</p>
+<p>apt install youtube-dl yt-dlp ffmpeg</p>
 
